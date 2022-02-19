@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanFloresM
-- 👀 I’m interested in Data Science, Public Policy and Criminology
+- 👀 I’m interested in Data Science, Public Policy and Criminology.
 - 🌱 I’m currently learning how to fine tune BERT and Roberta.
-- 💞️ I’m looking to collaborate on advanced NLP Projects
+- 💞️ I’m looking to collaborate on advanced NLP Projects.
 - 📫 You can reach me by email.
 
 <!---
